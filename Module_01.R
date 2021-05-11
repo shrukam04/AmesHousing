@@ -1,5 +1,4 @@
 #Name: Shruti Kamble
-#Instructor: Prof. Roy Wada
 #Course: Intermediate Analytics
 #Date: 04/15/2021
 #Module 1:Regression Diagnostics with R
